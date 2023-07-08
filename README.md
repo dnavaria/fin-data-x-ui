@@ -9,4 +9,4 @@
 
 - Mobile
 ![Mobile](ui-screenshots/findatax-responsive-ui-screenshot-mobile.png)
-![Mobile-2](ui-screenshots/findatax-responsive-ui-screenshot-mobile-2.png)
+![Mobile-2](ui-screenshots/findatax-responsive-ui-screenshot-2-mobile.png)
